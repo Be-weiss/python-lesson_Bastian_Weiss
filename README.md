@@ -1,4 +1,4 @@
 # Übung Git Repositorium
-- BW
+- **BW**
 - Jupyiter Notebooks
 - Datum: 2021-01-19
